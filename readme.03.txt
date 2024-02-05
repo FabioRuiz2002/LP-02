@@ -1,0 +1,1 @@
+Este programa crea una sala de cine con asientos ‘Libres’ y permite ‘Reservar’ asientos. Si intentas reservar un asiento ya reservado, el programa no lo permitirá. Por favor, ten en cuenta que este es un ejemplo muy básico y no incluye validaciones de entrada ni manejo de errores.
